@@ -1,4 +1,4 @@
-package com.example.restapi;
+package com.example;
 
 import org.glassfish.jersey.server.ResourceConfig;
 
