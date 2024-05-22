@@ -11,6 +11,6 @@ public class HelloResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello, World!!!!!\n + Great job Mike!!!";
+        return "Hello, World!!\n Great job!!!";
     }
 }
