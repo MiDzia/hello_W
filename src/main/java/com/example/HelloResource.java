@@ -11,7 +11,7 @@ public class HelloResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello, World!!!\n Added second string!!!!\nIt's six trying?\n" +
+        return "Hello, World!!!\n Added second string!!!!\nIt's SEVEN trying?\n" +
                 "Added global adress!!!";
 
 
